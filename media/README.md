@@ -8,14 +8,14 @@ Elabore um algoritmo que receba três números e ao final imprima na tela, a som
 2. NodeJS
 
 
-## Página em execução
+## Projeto em execução
 
 <br>
-<img src="../img/media.png" alt="pagina em execução">
+<img src="../img/media.png" alt="Projeto em execução">
 
 <div align="center">
 
-[Visualizar Página](https://replit.com/@GabrielMorozini/somamedia?v=1)
+[Visualizar Projeto](https://replit.com/@GabrielMorozini/somamedia?v=1)
 </div>
 <br>
 
