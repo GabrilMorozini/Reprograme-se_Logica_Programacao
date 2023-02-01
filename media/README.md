@@ -15,7 +15,7 @@ Elabore um algoritmo que receba três números e ao final imprima na tela, a som
 
 <div align="center">
 
-[Visualizar Página](https://replit.com/@GabrielMorozini/media?v=1)
+[Visualizar Página](https://replit.com/@GabrielMorozini/somamedia?v=1)
 </div>
 <br>
 
